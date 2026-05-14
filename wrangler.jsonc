@@ -1,0 +1,9 @@
+{
+  "name": "lindo-free-tool-broken-link-checker",
+  "main": "src/index.ts",
+  "workers_dev": true,
+  "compatibility_date": "2025-11-17",
+  "observability": {
+    "enabled": true
+  }
+}
